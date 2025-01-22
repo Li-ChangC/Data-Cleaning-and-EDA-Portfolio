@@ -1,7 +1,7 @@
 # Data Cleaning and EDA: MySQL Scripts
 
 ## 📝 Project Description
-This project contains SQL scripts for:
+This project contains SQL and Python scripts for:
 1. **Data Cleaning**: Preprocessing messy datasets, handling missing values, removing duplicates, and ensuring data consistency.
 2. **Exploratory Data Analysis (EDA)**: Generating insights from the data using aggregation, filtering, and analytical queries.
 
@@ -15,6 +15,6 @@ The dataset used in this project is sourced from [Alex The Analyst's MySQL YouTu
 ### ✨ Why This Project?  
 - **Data Cleaning** is a crucial step in any data workflow, ensuring datasets are ready for accurate analysis.  
 - **EDA** helps uncover hidden insights and trends to make data-driven decisions.  
-- This project highlights practical examples of SQL usage for both cleaning and analysis, making it a great reference for beginners and intermediate learners.  
+- This project highlights practical examples of SQL & python usage for both cleaning and analysis, making it a great reference for beginners and intermediate learners.  
 
 ---
