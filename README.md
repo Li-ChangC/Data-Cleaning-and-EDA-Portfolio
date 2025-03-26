@@ -14,12 +14,14 @@ EDA-AND-CLEANING/
 │ ├── exploratory da.sql # SQL for EDA 
 │ ├── layoffs_staging.csv # Staging table CSV 
 │ └── layoffs.csv # Cleaned/processed dataset 
-├── eda-using-NLP/ 
-│ ├── automated_metadata_curation.ipynb # NLP notebook 
-│ ├── curated_bodysite.csv 
-│ ├── curated_meta.csv 
-│ ├── new_meta.csv 
-│ └── eda.ipynb 
+└── eda-using-NLP/ 
+  ├── harmonize-schema/
+  │ ├── automated_metadata_curation.ipynb # NLP notebook 
+  │ └── curated_bodysite.csv 
+  └── sentence-transformer-work/
+    ├── curated_meta.csv 
+    ├── new_meta.csv 
+    └── eda.ipynb 
 ```
 
 ---
